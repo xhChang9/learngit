@@ -7,3 +7,7 @@
 	同时希望 此文件会对其他git自学同学有些许助力，自当不胜荣幸。
 
 如有侵权望告知删除
+
+
+主要资料链接：https://blog.csdn.net/weixin_36586120/article/details/79212615
+		https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/0013752340242354807e192f02a44359908df8a5643103a000
